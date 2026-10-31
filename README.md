@@ -1,9 +1,9 @@
 # BESTEVENT
 
-Hebrew RTL event planning prototype: invitations, guests, gifts, expenses, venue discovery and seating.
+Hebrew event planning demonstration. https://edenzvi1.github.io/gather-family/
 
-Open index.html or visit https://edenzvi1.github.io/gather-family/ .
+Current interface: chocolate brown branding, custom logo and Hebrew heading font; editable seating plans; guest and gift PDF reports sorted by Hebrew names. File sharing requires browser support, otherwise download and attach manually.
 
-This is a demonstration. All sample venues, addresses, capacities and providers are illustrative. Payment, subscriptions and approval codes are browser simulations; no real charges, authentication or server authorization are implemented. Added events, uploads and edits remain in memory and reset on reload. There is no synchronization between devices.
+Public venue information is sourced from linked venue websites. Fictional partner examples are labeled. Payments, venue memberships and invitation responses are demonstrations only. The public static site does not run account services. Edits and uploads reset on reload. No private account database or server credentials are published.
 
-The current app uses index.html, prototype.css and prototype.js. The legacy app files are retained separately.
+Frank Ruhl Libre is bundled under the SIL Open Font License; see frank-ruhl-libre-OFL.txt.
